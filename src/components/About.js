@@ -1,5 +1,5 @@
-import react, {useState} from 'react';
-
+import React from 'react';
+import selfie from "../assets/image/selfie.png";
 export default function About (){
 
 
@@ -7,9 +7,12 @@ export default function About (){
     return (
         <>
         <h1>About Me</h1>
-        <img src=""></img>
+        <div class= "aboutselfie">
+         <img src={selfie}></img>
+        </div>
+
         <p>I am  .. lore ipsum</p>
-        
+       
         </>
 
     )
