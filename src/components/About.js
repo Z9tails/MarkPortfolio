@@ -6,7 +6,8 @@ export default function About (){
 
     return (
         <>
-        <h1>About Me</h1>
+        <div class="title">
+        <h1>About Me</h1></div>
         <div class = "about">
         <div class= "columns is-3">
             <div class= "selfpromotion">
@@ -18,8 +19,8 @@ export default function About (){
              Environmental Law (Water Rights and usage). My prior educational background includes Flight Technology,
              Dive Technology, Electrical Engineering, and Pharmaceutical Technology.  I've spend the Covid-Times 
              substitute teaching, using mechanical and electrical engineering to repair and modify
-             aircraft, culminating in my completion of UCB's Full stack Programming bootcamp. I enjoy getting 
-             to use my hands as much as my mind, expecially in a symbiotic relationship where a cohort works towards
+             aircraft, culminating in my completion of UCB's Full Stack Programming bootcamp. I enjoy getting 
+             to use my hands as much as my mind, especially in a symbiotic relationship where a cohort works towards
              the same goals.   </p>
        
         </div>

@@ -1,13 +1,9 @@
-* { 
-  background-color:#A4A29E ;
-  box-sizing: 10px;
-  box-shadow: 1px 2px #b8860b, -.5em 0 .4em #bdb76b; 
-  margin: 10px;
-  padding: 15px;
-  flex: auto;
+ * {
+  background-color: #A4A29E;
+  margin: 5px;
+  padding: 5px;
+ }
 
-
-}
 
 body {
   margin: 0;
@@ -23,3 +19,13 @@ code {
     monospace;
 }
 
+.navigation { 
+  background-color:#A4A29E ;
+  box-sizing: 1px;
+  box-shadow: 1px 2px #b8860b, -.5em 0 .4em #bdb76b; 
+  margin: 3px;
+  padding: 5px;
+  flex: auto;
+
+
+}
