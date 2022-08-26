@@ -5,7 +5,7 @@ export default function  Header(props){
 
     function renderNavigation(){
         return(
-            <div clasName="navigation">
+            <div className="navigation">
                 {navigation.map(tab =>
                 <li><a
                 href= {"#" + tab.toLowerCase()} 
