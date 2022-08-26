@@ -8,7 +8,6 @@ export default function About (){
         <>
         <div class="title">
         <h1>About Me</h1></div>
-        <div class = "about">
         <div class= "columns is-3">
             <div class= "selfpromotion">
          <img src={selfie} style={{ width: "100%"}}  alt="pixelatedselfie" />
@@ -23,7 +22,6 @@ export default function About (){
              to use my hands as much as my mind, especially in a symbiotic relationship where a cohort works towards
              the same goals.   </p>
        
-        </div>
         </div>
         </>
 
