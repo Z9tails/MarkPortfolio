@@ -8,12 +8,12 @@ export default function About (){
         <>
         <h1>About Me</h1>
         <div class = "about">
-        <div class= "aboutselfie">
+        <div class= "columns is-3">
             <div class= "selfpromotion">
-         <img src={selfie} style={{ width: "25%"}}  alt="pixelatedselfie" />
+         <img src={selfie} style={{ width: "100%"}}  alt="pixelatedselfie" />
         </div>
 
-        <p>I am Mark! I'm a West Coast nomad currently based in Oregon. I'm a graduate from
+        <p class ="px-2">I am Mark! I'm a West Coast nomad currently based in Oregon. I'm a graduate from
              Oregon State University (2013) with a Bachelors of Science in Recreation Resource Management with a focus in 
              Environmental Law (Water Rights and usage). My prior educational background includes Flight Technology,
              Dive Technology, Electrical Engineering, and Pharmaceutical Technology.  I've spend the Covid-Times 

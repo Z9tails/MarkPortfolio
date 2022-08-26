@@ -1,6 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { useState } from 'react';
+import 'bulma/css/bulma.min.css';
 import About from './components/About';
 import Header from './components/Header';
 import Projects from './components/Projects';

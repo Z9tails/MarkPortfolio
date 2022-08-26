@@ -6,12 +6,13 @@ export default function  Header(props){
     function renderNavigation(){
         return(
             <div className="navigation">
+                <div class ="container columns is-flex-direction-row">
                 {navigation.map(tab =>
                 <li><a
                 href= {"#" + tab.toLowerCase()} 
                 onClick ={()=>props.setPage(tab)}
                 >{tab}</a></li>)}
-                
+               </div> 
             </div>
         )
     }

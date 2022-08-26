@@ -1,8 +1,9 @@
 * { 
-  box-sizing: 400;
-  box-shadow: 10px 3px #b8860b, -1em 0 .4em #bdb76b; 
-  margin: 400;
-  padding: 400;
+  background-color:#A4A29E ;
+  box-sizing: 10px;
+  box-shadow: 1px 2px #b8860b, -.5em 0 .4em #bdb76b; 
+  margin: 10px;
+  padding: 15px;
   flex: auto;
 
 
