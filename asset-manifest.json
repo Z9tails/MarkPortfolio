@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MarkPortfolio/static/css/main.54a7bd03.css",
+    "main.js": "/MarkPortfolio/static/js/main.7afe1954.js",
+    "static/js/787.d2a5f06d.chunk.js": "/MarkPortfolio/static/js/787.d2a5f06d.chunk.js",
+    "static/media/selfie.png": "/MarkPortfolio/static/media/selfie.3b51edb2db348ad8a767.png",
+    "static/media/password.png": "/MarkPortfolio/static/media/password.b69d3e0d7aa913b26fbe.png",
+    "static/media/p1.png": "/MarkPortfolio/static/media/p1.8e4740e5978935279c07.png",
+    "static/media/Sphere3.png": "/MarkPortfolio/static/media/Sphere3.ac26b22491da9c538736.png",
+    "static/media/resume.pdf": "/MarkPortfolio/static/media/resume.9c6294725ee357ef3c25.pdf",
+    "static/media/budget.png": "/MarkPortfolio/static/media/budget.efde4d941051432a7e6e.png",
+    "static/media/assignment.png": "/MarkPortfolio/static/media/assignment.ec30c16820d967da6c05.png",
+    "static/media/Unbearable2.png": "/MarkPortfolio/static/media/Unbearable2.ed051ee78f1f1bcba2a9.png",
+    "index.html": "/MarkPortfolio/index.html",
+    "main.54a7bd03.css.map": "/MarkPortfolio/static/css/main.54a7bd03.css.map",
+    "main.7afe1954.js.map": "/MarkPortfolio/static/js/main.7afe1954.js.map",
+    "787.d2a5f06d.chunk.js.map": "/MarkPortfolio/static/js/787.d2a5f06d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a7bd03.css",
+    "static/js/main.7afe1954.js"
+  ]
+}
