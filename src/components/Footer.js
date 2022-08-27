@@ -33,6 +33,7 @@ export default function About() {
           </ul>
         </h1>
       </div>
+
     </>
   );
 }

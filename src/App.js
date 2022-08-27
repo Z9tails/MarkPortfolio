@@ -5,7 +5,9 @@ import 'bulma/css/bulma.min.css';
 import About from './components/About';
 import Header from './components/Header';
 import Projects from './components/Projects';
-import Footer from './components/Footer'
+import Footer from './components/Footer';
+import {GiLetterBomb} from 'react-icons/gi';
+import resume from './assets/resume.pdf'
 
 function App() {
 
@@ -22,10 +24,17 @@ function App() {
   
   return (
     <>
-    <Header page={page} setPage={setPage}/>
-    <div>{renderPage(page)}</div>
-    
-    
+      <Header page={page} setPage={setPage} />
+      <div>{renderPage(page)}</div>
+
+      <footer class="footer">
+        <div class="content has-text-centered">
+          {" "}
+          <a href={resume}>
+            <GiLetterBomb size={250} />
+          </a>
+        </div>
+      </footer>
     </>
   );
 }
