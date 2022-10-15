@@ -23,8 +23,7 @@ export default function About (){
              substitute teaching, using mechanical and electrical engineering to repair and modify
              aircraft, culminating in my completion of UCB's Full Stack Programming bootcamp. I enjoy getting 
              to use my hands as much as my mind, especially in a symbiotic relationship where a cohort works towards
-             the same goals.   </p>
-       
+             the same goals. </p>
         </div>
         </>
 
